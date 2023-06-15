@@ -10,6 +10,7 @@ a Computer Science Undergraduate
 
 - 👯 I’m looking to collaborate on Front-End Web Development projects.
 - 📫 How to reach me: tijilmalhotra@gmail.com
+- 📚 I am currently learning AWS and DS algorithms.
 - ⚡ Fun fact: I like playing basketball and writing poems.
 
 ### Languages, Tools and Technologies : 
@@ -17,3 +18,6 @@ a Computer Science Undergraduate
 
 ### My Github Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TijilM&theme=windows-dark&border_radius=6.8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+### Connect with me
+https://www.linkedin.com/in/tijil-malhotra-489bb9228/
