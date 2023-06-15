@@ -1,18 +1,11 @@
-### Hello!
-### I am Tijil Malhotra, 
-a Computer Science Undergrad
+<center>
+### Hello Everyone!
+### I am Tijil Malhotra!, 
+</center>
+a Computer Science Undergraduate
 
-<!--
-**TijilM/TijilM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 I’m looking to collaborate on Front-End Web Development projects.
+- 📫 How to reach me: tijilmalhotra@gmail.com
+- ⚡ Fun fact: I like playing basketball and writing poems.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TijilM&theme=windows-dark&border_radius=6.8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
