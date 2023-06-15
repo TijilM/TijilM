@@ -1,8 +1,10 @@
-<center>
+<div style="text-align:center;">
+
 ### Hello Everyone!
 ### I am Tijil Malhotra!, 
-</center>
 a Computer Science Undergraduate
+
+</div>
 
 - 👯 I’m looking to collaborate on Front-End Web Development projects.
 - 📫 How to reach me: tijilmalhotra@gmail.com
