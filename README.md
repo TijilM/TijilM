@@ -1,7 +1,7 @@
 <div style="text-align:center;">
 
 ### Hello Everyone!
-### I am Tijil Malhotra!, 
+### I am Tijil Malhotra
 a Computer Science Undergraduate
 
 </div>
